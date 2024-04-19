@@ -1,1 +1,1 @@
-# Data-Analytics-Capstone
+The Data Analytics Capstone course was exactly as it sounds, a capstone demonstrating all I have learned throughout the course of my program. The course competencies include: Analyze data, Query data, Perform ETL, Create reports and visuals, Communicate with stakeholders, adn Build data analytic academic portfolio. ***I HAVE YET TO COMPLETE MY CAPSTONE AND I WILL ATTACH FILES DEMONSTRATING COURSE COMPETENCIES WERE MET AT THE COMPLETION OF THE COURSE***
